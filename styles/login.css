@@ -1,0 +1,54 @@
+body{
+    background-color: #67C6E3;
+    font-family: tahoma;
+    font-size: 14px;
+    flex-direction: column;
+}
+
+footer{
+    margin-top: 500px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    font-size: 200%;
+    font-family:tahoma;
+}
+
+#footer1 {
+    font-family: tahoma;
+    font-size: 200%;
+    background-color: #DFF5FF;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+}
+
+#footer1 a{
+    text-decoration: none;
+}
+
+#login{
+    width: 30%;
+    margin: 50px auto;
+    background-color: #DFF5FF;
+    border-radius: 10px;
+    
+}
+
+#form{
+    padding: 10px;
+}
+
+#submit {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+
+
