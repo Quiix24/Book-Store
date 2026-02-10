@@ -138,7 +138,7 @@ CREATE TABLE users (
 1. **Clone or Download the Project**
    ```bash
    # If using Git
-   git clone [repository-url]
+   git clone https://github.com/Quiix24/Book-Store
    
    # Or download and extract the ZIP file
    ```
